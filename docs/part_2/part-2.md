@@ -13,6 +13,8 @@ layout: default
 has_children: true 
 has_toc: false
 ---
+### Part 2 - Document Variables, Queries, Visualizations, Focus Groups, and Survey Data
+
 Part 2 of this MAXQDA tutorial will explore some of MAXQDA's more advanced features, such as document variables, and analysis and visual tools. These features can help with mixed methods analysis as well.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA) 
