@@ -13,5 +13,6 @@ layout: default
 has_children: true 
 has_toc: true
 ---
+Part 1 of this MAXQDA tutorial will teach you how to use MAXQDA to load information, code documents, make notes, and export information.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA) 
