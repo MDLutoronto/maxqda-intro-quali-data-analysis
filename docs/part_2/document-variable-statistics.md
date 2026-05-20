@@ -10,6 +10,7 @@ title: Document Variable Statistics
 parent: Part 2 - Document Variables, Queries, Visualizations, Focus Groups, and Survey Data
 nav_order: 2.03
 layout: default
+grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 ### Document Variable Statistics
 

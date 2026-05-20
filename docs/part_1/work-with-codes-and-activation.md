@@ -10,6 +10,7 @@ title: Work with Codes and Activation
 parent: Part 1 - Import/Export, Coding, and Memos
 nav_order: 1.07
 layout: default
+grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 ### Work with Codes and Activation
 

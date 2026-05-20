@@ -10,6 +10,7 @@ title: Activity 1
 parent: Part 1 - Import/Export, Coding, and Memos
 nav_order: 1.06
 layout: default
+grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 
 ### Activity 1

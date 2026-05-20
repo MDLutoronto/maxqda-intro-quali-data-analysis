@@ -10,6 +10,7 @@ title: Working with Document Variables
 parent: Part 2 - Document Variables, Queries, Visualizations, Focus Groups, and Survey Data
 nav_order: 2.02
 layout: default
+grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 ### Working with Document Variables
 

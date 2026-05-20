@@ -10,6 +10,7 @@ title: Word Cloud
 parent: Part 2 - Document Variables, Queries, Visualizations, Focus Groups, and Survey Data
 nav_order: 2.10
 layout: default
+grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 ### Word Cloud
 
