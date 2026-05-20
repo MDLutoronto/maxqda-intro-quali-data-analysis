@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Focus Groups
 parent: Part 2 - Document Variables, Queries, Visualizations, Focus Groups, and Survey Data
-nav_order: 2.15
+nav_order: 2.14
 layout: default
 grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
