@@ -15,6 +15,6 @@ has_toc: false
 ---
 ### Part 2 - Document Variables, Queries, Visualizations, Focus Groups, and Survey Data
 
-Part 2 of this MAXQDA tutorial will explore some of MAXQDA's more advanced features, such as document variables, and analysis and visual tools. These features can help with mixed methods analysis as well.
+Part 2 of this MAXQDA tutorial will explore some of MAXQDA's more advanced features, such as document variables, and analysis and visual tools. These features can help with mixed methods analysis as well. This section will also look at importing and analyzing some special data types, such as focus group transcripts and survey data.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA) 
