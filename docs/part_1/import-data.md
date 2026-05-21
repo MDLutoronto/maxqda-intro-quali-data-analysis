@@ -15,7 +15,7 @@ grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 
 ### Import Data
 
-Okay let’s get started importing in some data so we can start using the tool. We will be using transcripts from interviews and focus groups run for a US data center study.
+Okay let’s get started importing in some data so we can start using the tool. We will be using questionnaires and transcripts from interviews and focus groups run for a US data center study.
 
 As I mentioned before, MAXQDA helps you get organized, so before we import in some data, let’s create some folders to organize our data. In MAXQDA, folders are called Document Groups.
 

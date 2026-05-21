@@ -25,6 +25,6 @@ You’ll also need to download some datasets that we’ve provided for this tuto
 
 To extract a zip file, on a Mac, just double\-click on the file to extract its files. On Windows, you should be able to right click and select Extract All... Look at where the files are extracting and click on Browse if you need to adjust it. Then select Extract.
 
-This tutorial is adapted from a MAXQDA 2\-Part live workshop series.
+This tutorial is adapted from a MAXQDA workshop series.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA) 

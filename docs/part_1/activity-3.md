@@ -14,7 +14,7 @@ grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 ### Activity 3
 
-Okay, let’s break again here for our final activity.
+Okay, let’s break again here for our final activity for part 1.
 
 1. Create a new in\-document memo, document memo, project memo, and code memo
 2. Search in Memos for a word

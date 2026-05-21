@@ -15,7 +15,7 @@ grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 
 ### Activity 1
 
-Okay, let’s break here for our first activity.
+Okay, let’s break here for our first activity to practice what you have learned so far.
 
 1. Add the following codes: “Energy Efficiency,” “Water Consumption” and “Memorable Quotes” (you can do this either ahead of time, or try the open coding feature to create these on the fly)
 2. Explore coding with those codes
