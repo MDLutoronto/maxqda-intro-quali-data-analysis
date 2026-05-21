@@ -26,8 +26,5 @@ grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 
     <img src='{{ '/assets/images/125.png' | relative_url }}' alt='Energy Efficiency code activated' title='' width='559' height='266' />
 20. If you bring up the Retrieved Segments window, you will now see all the segments that are coded energy efficiency, from executive interviews only. <img src='{{ '/assets/images/126.png' | relative_url }}' alt='Retrieved segments panel showing 4 coded segments' title='' width='996' height='419' />
-21. Another way to use your document variables, is to understand your documents better. For example, you can look at simple descriptive statistics of your variables. Before we do this, let’s deactivate any documents and codes you have active by clicking on the reset activations icon at the top of the Document System Panel and Code System Panel (looks like a purple tag icon with a number).
-
-    <img src='{{ '/assets/images/127.png' | relative_url }}' alt='Reset Activation icons highlighted' title='' width='560' height='855' />
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA) 
