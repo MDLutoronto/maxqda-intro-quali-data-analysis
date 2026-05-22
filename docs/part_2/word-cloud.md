@@ -29,6 +29,7 @@ grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
     <img src='{{ '/assets/images/171.png' | relative_url }}' alt='Cancel highlighted' title='' width='367' height='237' />
 61. The Format tab provides you with options to change the shape, colour, or alignment of words in your cloud. <img src='{{ '/assets/images/maxqda_part2_61_new_eng.png' | relative_url }}' alt='Format highlighted' title='' width='1034' height='707' />
 62. If you double click on a word in the cloud, it’ll bring up a table with all the references to the word in context. <img src='{{ '/assets/images/173.png' | relative_url }}' alt='Search results displayed' title='' width='892' height='337' />
-63. And finally, again, we can export this, if we wanted. For now, let’s close the window. <img src='{{ '/assets/images/maxqda_part2_63_new_eng_0.png' | relative_url }}' alt='Close window highlighted' title='' width='1035' height='709' />
+63. And finally, again, we can export this, if we wanted. For now, let’s close the window. 
+<img src='{{ '/assets/images/maxqda_part2_63_new_eng_0.png' | relative_url }}' alt='Close window highlighted' title='' width='1035' height='709' />
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA) 

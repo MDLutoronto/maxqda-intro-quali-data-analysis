@@ -14,7 +14,7 @@ grand_parent: Introduction to Using MAXQDA for Qualitative Data Analysis
 ---
 ### Code Line
 
-12. Finally, a visual tool that can help you analyze focus groups is Code Line. Activate all the Focus Group Speaker Codes for FG1 from the Code System panel by clicking on the circle to the right of the focus group document name below Focus Group Speakers.
+12. Finally, a visual tool that can help you analyze focus groups is Code Line. Activate all the Focus Group Speaker Codes for the Focus Group transcript we have been working with from the Code System panel by clicking on the circle to the right of the focus group document name below Focus Group Speakers.
 
     <img src='{{ '/assets/images/208.png' | relative_url }}' alt='Activate document button highlighted next to NYC Data Center FG1 Transcript' title='' width='555' height='126' />
 13. Go to the Visual Tools menu and select Codeline. <img src='{{ '/assets/images/209.png' | relative_url }}' alt='Visual Tools and Codeline highlighted' title='' width='907' height='123' />
